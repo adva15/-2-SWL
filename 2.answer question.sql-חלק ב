@@ -1,6 +1,6 @@
 המשך חלק ב 
-
 2. GROUP BY  שאילתות:
+ 
  ספור כמה סרטים יש מכל GENRE?.א.
 SELECT movies.genre, COUNT(*) AS count_movies
 FROM movies
